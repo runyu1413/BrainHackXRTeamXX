@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="pubwater" size="0.070000 0.070312" />
+    <ImageTarget name="singaporegreenlabel" size="0.070000 0.046685" />
+  </Tracking>
+</QCARConfig>
