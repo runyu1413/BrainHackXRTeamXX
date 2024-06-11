@@ -8,6 +8,7 @@ XX
 ### Prerequisites
 - Unity 2020.3 or later
 - MRTK (Mixed Reality Toolkit) v2.7 or later
+- Visual Studio 2022 or later
 
 ### Installation
 1. **Clone the Repository:**
@@ -43,8 +44,7 @@ XX
 ## Development Tools Used
 - **Unity 2020.3**: Game engine used for developing the HoloLens application.
 - **MRTK (Mixed Reality Toolkit) v2.7**: Provides components and features for developing mixed reality applications.
-- **ZXing.Net**: Library for QR/Barcode scanning.
-- **Visual Studio 2019/2022**: IDE for building and deploying the UWP application.
+- **Visual Studio 2022**: IDE for building and deploying the UWP application.
 
 ## Licensing
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
