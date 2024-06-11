@@ -23,8 +23,8 @@ XX
 
 4. **Build Settings:**
    - Go to `File > Build Settings`.
-   - Switch the platform to `Universal Windows Platform (UWP)`.
-   - Set Architecture to be `ARM 64-bit`.
+   - Switch platform to `Universal Windows Platform (UWP)`.
+   - Set architecture to `ARM 64-bit`.
 
 ### Usage
 
