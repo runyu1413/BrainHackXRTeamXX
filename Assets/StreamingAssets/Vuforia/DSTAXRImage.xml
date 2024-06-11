@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
-    <ImageTarget name="pubwater" size="0.070000 0.070312" />
+    <ImageTarget name="pubwater" size="0.070000 0.083252" />
+    <ImageTarget name="greenguard-gold-certified" size="0.100000 0.066667" />
+    <ImageTarget name="epeat" size="0.070000 0.043750" />
     <ImageTarget name="singaporegreenlabel" size="0.070000 0.046685" />
   </Tracking>
 </QCARConfig>
